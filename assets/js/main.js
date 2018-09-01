@@ -444,23 +444,6 @@ jQuery(document).ready(function($) {
             }, 2000);
         });
     });
-	
-		
-	//Change for demo page
-    $('input:radio[name=page_builder]').on('change', function() {
-		
-		$('input:radio[name=page_builder]').each(function () {
-
-			var $this = $(this);
-	
-			if ($(this).prop('checked')) {
-				window.location.replace($this.val());
-			}
-		});
-		
-        return false;
-    });
-
 
 
 });

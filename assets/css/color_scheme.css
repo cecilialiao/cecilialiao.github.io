@@ -158,10 +158,11 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
 .modal-header {
     background: #C06014;
 }
-.skillbar-title, .skillbar-bar {
-    background: rgba(192, 96, 20, 0.8);
-    /*background: #C06014;*/
-
+.skillbar-title {
+    background: #C06014;
+}
+.skillbar-bar {
+    background: rgba(192, 96, 20, 0.8) !important;
 }
 .portfolio .label-bg, #filters li span.active {
     background: #C06014;

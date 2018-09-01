@@ -1317,7 +1317,7 @@ ul.about {
     font-size: 11px;
     height: 22px;
     line-height: 22px;/*35*/
-    color: #444;
+    /*color: #444;*/
     color: rgba(0, 0, 0, 0.4);
 }
 
