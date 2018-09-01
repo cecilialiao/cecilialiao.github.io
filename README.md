@@ -1,3 +1,5 @@
-Hello world. I'll soon be hosting a guide on "How to run an open source conference" here. 
+# About
+Codes to GitHub and Jekyll powered website for [Cecilia Liao](https://github.com/cecilialiao).
 
-Watch this space.
+# Credit
+Theme based on [PanelCV](https://jekyller.github.io/PanelCV) by [Locky](https://github.com/junlulocky)
