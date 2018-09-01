@@ -1,0 +1,234 @@
+/* ========================================================================================= */
+/* ====================================== Orange #C06014 =================================== */
+/* ====================================== Peach  #EDDBCD =================================== */
+/* ====================================== Grey   #CDCDCD =================================== */
+/* ========================================================================================= */
+
+.btn-primary {
+    background: #C06014;
+}
+.btn-primary:hover {
+    background: #C06014;
+}
+a {
+    color: #C06014;
+}
+.icon_menu {
+    background: #EDDBCD !important;
+    color: #C06014;
+}
+.icon_menu_active, .icon_menu_hover {
+    background: #C06014 !important;
+    color: #EDDBCD !important;
+    transition-property: background-color;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+}
+.mCSB_dragger_bar {
+    background: #CDCDCD !important;
+}
+#style-2::-webkit-scrollbar-thumb {
+    background-color:#C06014;
+}
+.span-info {
+    color: #C06014;
+}
+#contactform .submit:hover, #comment_form .submit:hover {
+    webkit-filter: brightness(98%) !important;
+}
+#profile .col-md-5 h2, #profile .col-md-5 h4, #resume .col-md-6 p, #resume .col-md-6 span.duration {
+    color: #C06014;
+}
+#resume .resume-left ul li h5 {
+    border-bottom: 1px solid #C06014;
+}
+.attributes span.glyphicon, .attributes h6 {
+    color: #C06014;
+}
+.blog-article a.read_m:hover {
+    border: 1px solid #C06014;
+    background-color: #C06014;
+}
+.border-list {
+    border: 1px solid #C06014;
+}
+.content-post h1 {
+    color: #C06014;
+}
+a.readmore:hover, a.readmore:focus, a.readmore:active {
+    border: 1px solid #C06014;
+    background-color: #C06014;
+}
+.border-list {
+    border: 1px solid #C06014;
+}
+.content-post h1 {
+    color: #C06014;
+}
+a.readmore:hover, a.readmore:focus, a.readmore:active {
+    border: 1px solid #C06014;
+    background-color: #C06014;
+}
+./*ch-info-prof {
+    background: rgba(76, 173, 252, 0.6);
+}*/
+#profile .col-md-6 h1 {
+    color: #C06014;
+}
+.download:hover span, .download:focus span {
+    background: #C06014;
+}
+.download span::before {
+    color: #C06014;
+}
+.download span, .ch-info .ch-info-back {
+    background: #C06014;
+}
+.resp-tabs-container h1 {
+    color: #C06014 !important;
+}
+
+
+@media screen and (max-width:540px) {
+    .content-inner {
+        border-top: 5px solid #C06014;
+    }
+}
+#contactform .submit, #comment_form .submit {
+    background-color: #C06014;
+}
+#profile .about i.glyphicon, #profile .about label {
+    color: #C06014;
+}
+#section-title, #categories_sidebar ul.categories li a:hover {
+    background: #C06014;
+}
+#tags .tags_sidebar .tags-list li {
+    border: 1px solid #C06014;
+    color: #C06014;
+}
+#tags .tags_sidebar .tags-list li a {
+    color: #C06014;
+}
+#tags .tags_sidebar .tags-list li:hover {
+    background: #C06014;
+}
+h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
+    border: 1px solid #C06014 !important;
+}
+@media only screen and (max-width: 800px) {
+    .icon_menu_active, .icon_menu_hover {
+        background: #EDDBCD !important;
+        color: #C06014 !important;
+        transition-property: background-color;
+        transition-duration: 0.3s;
+        transition-timing-function: linear;
+    }
+    h2.resp-accordion {
+        background: #EDDBCD  !important;
+    }
+    h2.resp-accordion:hover {
+        /*background: rgba(255, 67, 67, 0.8) !important;*/
+        background: rgba(192, 96, 20, 0.8) !important;
+        /*background: #EDDBCD;*/
+    }
+    h2.resp-tab-active {
+        /*background: rgba(255, 67, 67, 0.8) !important;*/
+        background: rgba(192, 96, 20, 1) !important;
+        /*background: #EDDBCD;*/
+
+    }
+}
+.title_content:after, .icon_content {
+    background: #C06014;
+}
+.text_content {
+    color: #C06014;
+}
+.panel-default>.panel-heading {
+    color: #EDDBCD;
+    background-color: #C06014;
+}
+.nbs-flexisel-inner {
+    border: 5px solid #C06014;
+}
+#nb_post, .reply, .tag, .info-post i.glyphicon, .info i.glyphicon, i.fa-quote-left {
+    color: #C06014 !important;
+}
+.modal-header {
+    background: #C06014;
+}
+.skillbar-title, .skillbar-bar {
+    background: rgba(192, 96, 20, 0.8);
+    /*background: #C06014;*/
+
+}
+.portfolio .label-bg, #filters li span.active {
+    background: #C06014;
+}
+.portfolio .label-bg, #filters li span:hover  {
+    background: #C06014;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+#sidebar-right .search-blog i, #sidebar-left .search-blog i {
+    background: #C06014;
+}
+.icon-switcher {	
+    color: #C06014 !important;
+}
+.resp-tabs-list li {
+    background: #C06014;
+    color: #EDDBCD;
+}
+#services .pack-service .service-icon i {
+    border: 3px solid #C06014;
+    color: #C06014;
+    background: #EDDBCD;
+}
+#services .pack-service:hover .service-icon i {
+    background: #C06014 !important;
+    color:#EDDBCD !important;
+}
+.widget-profil{
+    background: #C06014;  
+}
+.widget-profil .head-image{
+    border: 10px solid #EDDBCD;
+}
+.widget-profil .circle-img {
+    border: 10px solid #EDDBCD;
+}
+.widget-profil  h1 {
+    color:#EDDBCD;
+}
+.widget-profil  h4 {
+    color:#EDDBCD; 
+}
+.widget-profil  h6 {
+    color:#EDDBCD; 
+}
+.widget-profil  p {
+    color:#EDDBCD !important;
+}
+.widget-profil #profile_desc {
+    border-bottom: 1px solid #EDDBCD;
+    border-top: 1px solid #EDDBCD;
+}
+#profile_social a:hover {
+    color : #C06014;
+}
+#profile_social a{
+    background-color: #C06014;
+}
+#blog .post_media {
+    border-top: 5px solid #C06014;
+}
+#blog .post_media  .post-format-icon {
+    background: #C06014;
+}
+.reference span {
+    color : #C06014;
+}

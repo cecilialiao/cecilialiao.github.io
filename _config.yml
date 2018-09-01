@@ -1,1 +1,28 @@
-theme: jekyll-theme-leap-day
+
+title: Cecilia Liao
+url: 'https://github.com/cecilialiao/cecilialiao.github.io'
+baseurl: '/' #change it according to your repository name
+
+
+
+# Profile information
+yourname: Cecilia Liao  
+title: |
+ Data scientist at dunnhumby.
+ 
+ Organiser of PyData London.
+location: London, UK
+description: By day, I apply customer data science to solve marketing 
+             challenges for data-driven retailers. By night, 
+             I grow the use of Python in the UK. And in my spare time
+             I travel. 
+
+## Social Profiles
+# facebook: http://www.facebook.com  ## your facebook account url
+twitter: http://www.twitter.com/cecilialiao ## your twitter account url
+linkedin: https://www.linkedin.com/in/cecilialiao/  ## your linkedin account url
+github: https://github.com/cecilialiao
+instagram: https://www.instagram.com/cecilia.liao/
+
+
+# Update all the sections by editing the files inside _includes folder.
